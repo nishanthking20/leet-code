@@ -9,5 +9,4 @@ class Solution:
                     c+=1
             if c==len(words):
                 l+=[i]
-        print(words)
         return l
